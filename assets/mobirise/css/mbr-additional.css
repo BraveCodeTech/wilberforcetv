@@ -1,0 +1,93 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .navbar-brand a {
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-0 A {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#slider-b H2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ffffff;
+}
+#slider-b P {
+  font-size: 18px;
+  color: #ffffff;
+}
+#msg-box3-4 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#features1-8 H4 {
+  text-align: right;
+}
+#features1-8 P {
+  text-align: left;
+}
+#footer1-1 P {
+  color: #ffffff;
+}
+
+
+#dropdown-menu-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-4 .navbar-brand a {
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-4 .nav .link,
+#dropdown-menu-4 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-4 .navbar,
+#dropdown-menu-4 .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-4 .dropdown-menu a:hover,
+#dropdown-menu-4 .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-4 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-4 A {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#msg-box2-c H2 {
+  font-size: 15px;
+  color: #d9534f;
+}
+#footer1-6 P {
+  color: #ffffff;
+}
